@@ -20,7 +20,7 @@ class AddContact extends Component {
     render() {
         return (
             <div className= "ui main">
-                <h2> Add Contact </h2>
+                <h1> Add Contact </h1>
                 <form className="ui form" onSubmit={this.add}>
                     <div className="field">
                         <label>Name</label>
