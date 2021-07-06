@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/amanbhagat0399/React-Contact-Manager-.git/static/css/main.a3ac6aa2.chunk.css",
+    "main.js": "/amanbhagat0399/React-Contact-Manager-.git/static/js/main.8aff3d10.chunk.js",
+    "main.js.map": "/amanbhagat0399/React-Contact-Manager-.git/static/js/main.8aff3d10.chunk.js.map",
+    "runtime-main.js": "/amanbhagat0399/React-Contact-Manager-.git/static/js/runtime-main.81d2ac1b.js",
+    "runtime-main.js.map": "/amanbhagat0399/React-Contact-Manager-.git/static/js/runtime-main.81d2ac1b.js.map",
+    "static/js/2.c2a70547.chunk.js": "/amanbhagat0399/React-Contact-Manager-.git/static/js/2.c2a70547.chunk.js",
+    "static/js/2.c2a70547.chunk.js.map": "/amanbhagat0399/React-Contact-Manager-.git/static/js/2.c2a70547.chunk.js.map",
+    "index.html": "/amanbhagat0399/React-Contact-Manager-.git/index.html",
+    "static/css/main.a3ac6aa2.chunk.css.map": "/amanbhagat0399/React-Contact-Manager-.git/static/css/main.a3ac6aa2.chunk.css.map",
+    "static/js/2.c2a70547.chunk.js.LICENSE.txt": "/amanbhagat0399/React-Contact-Manager-.git/static/js/2.c2a70547.chunk.js.LICENSE.txt",
+    "static/media/steve.31dd511e.jpg": "/amanbhagat0399/React-Contact-Manager-.git/static/media/steve.31dd511e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81d2ac1b.js",
+    "static/js/2.c2a70547.chunk.js",
+    "static/css/main.a3ac6aa2.chunk.css",
+    "static/js/main.8aff3d10.chunk.js"
+  ]
+}
